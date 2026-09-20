@@ -1,6 +1,6 @@
 # Cinerion
 
-> **CONFIDENTIAL — PROJECT INTERNAL**  
+> **CONFIDENTIAL — PROJECT INTERNAL(well it was supposed to be I had to make it public I'll remove it later)**  
 > Copyright © 2026 IR. All rights reserved.
 
 Cinerion is a secure operations, manufacturing, quality and inspection platform for an
